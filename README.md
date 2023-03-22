@@ -15,3 +15,10 @@ Repositório destiando aos conteúdos de Linguagem de Programção 1.
 - Semana 3
     - Criação de projetos Java
     - Introdução a Linguagem Java
+
+- Semana 4
+    - Estrutura Controle Java
+    - Exercicíos Introdutórios
+
+- Semana 5
+    - Exercício Aquário e IMC
