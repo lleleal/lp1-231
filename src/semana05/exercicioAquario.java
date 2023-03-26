@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class exercicioAquario {
 
+/*Ex01. Crie um programa em Java que recebe como entrada o comprimento, altura e a largura de um aquário e calcule as seguintes
+informações.*/
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -33,6 +35,9 @@ public class exercicioAquario {
 
         double f = v * 2;
         System.out.println("A quantidade de filtragem é:" + f);
+
+        
+        scan.close();
     }
 
 }
