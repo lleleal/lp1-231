@@ -22,3 +22,12 @@ Repositório destiando aos conteúdos de Linguagem de Programção 1.
 
 - Semana 5
     - Exercício Aquário e IMC
+
+- Semana 6
+    - Métodos e Test
+
+- Semana 7
+    - Exercícios de revisão
+
+- Semana 10
+    - Orientação Objeto
