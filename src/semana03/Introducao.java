@@ -1,20 +1,14 @@
 package semana03;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
-public class Introducao {
+//public class Introducao {
     
-    public static void main(String[] args) {
+    /public static void main(String[] args) {
         // Comentário de 1 linha
 
         /*
-         *  Coementário de várias linhas
-         */
-
-         // Tipos Primitivos
-         // Inteiros
-         // byte, short, int, long
-
+         *  Coementário de várias linhtela.addQuadrado(q1);
          byte n1 = 100; //1 byte - -128 a 127
          short n2 = 3000; // 2 bytes - -32768 a 32767
          int n3 = 321321321; // 4 bytes- 2 bilhões
