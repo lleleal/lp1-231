@@ -27,5 +27,37 @@ public class Main {
 
         System.out.println(tela.areaTotal());
         System.out.println(tela.perimetroTotal());
+
+        // List
+        // Set
+        // Map
+
+        ArrayList<String> nomes = new ArrayList<>();
+
+        //Adicionar
+        nomes.add("Maria"); // 0
+        nomes.add("João");  // 1
+        nomes.add("Pedro"); // 2
+
+        // Tamanho
+        System.out.println(nomes.size());
+
+        // Remover 1 elemento
+        nomes.remove(1);
+        //nomes.remove("João");
+
+        //Remove todos os elementos do ArrayList
+        nomes.clear();
+
+        // Pegar valor
+        System.out.println(nomes.get(0));
+
+        for (int i = 0; i < nomes,size();i++) {
+            String nome = nomes.get(i);
+        }
+        
+        for(String nome : nomes) {
+
+        }
     }
 }
